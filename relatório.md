@@ -1,4 +1,4 @@
-## **Disciplina:** Sistemas Operacionais
+**Disciplina:** Sistemas Operacionais
 
 **Curso:** Tecnologia em Análise e Desenvolvimento de Sistemas
 
